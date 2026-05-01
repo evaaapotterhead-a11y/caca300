@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_pin_event" id="M5E}IToQ?CZU;!o[aL;[" x="0" y="0"><field name="name">TouchPin.P2</field><statement name="HANDLER"><block type="basic_show_icon" id="G-SI^!snXKeV.b_~#a8*"><field name="i">IconNames.Heart</field></block></statement></block></xml>
